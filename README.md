@@ -10,7 +10,7 @@ My live site [here](https://3omeed.github.io/technical-documentaion/)
 
 
 screenshots:  
-![pc]()  
+![pc](https://github.com/3omeed/technical-documentaion/blob/main/photos/Screenshot%20(63).png)  
 
 ![mobile]()
 
