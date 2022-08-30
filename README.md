@@ -6,7 +6,7 @@ this is the last challenge in the third section of [FreeCodeCamp](https://www.fr
 
 links  
 -----
-My live site:[live link](https://3omeed.github.io/technical-documentaion/)
+My live site [here](https://3omeed.github.io/technical-documentaion/)
 
 
 screenshots:  
